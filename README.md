@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm currently learning Mobile Application Developmet
+## I'm currently learning Mobile Application Development
 <!--
 **Avaloaf/Avaloaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
